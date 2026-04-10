@@ -62,8 +62,8 @@ status:  system ready / takeoff authorized</pre>
 Operational metrics and contribution traces from this GitHub node.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nanwanuser&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7dd3fc&text_color=c9d1d9&icon_color=4ade80" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanwanuser&layout=compact&hide_border=true&bg_color=0d1117&title_color=7dd3fc&text_color=c9d1d9" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/nanwanuser/nanwanuser/output/github-stats.svg" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/nanwanuser/nanwanuser/output/top-langs.svg" alt="Top Languages" />
 </p>
 
 <p align="center">
