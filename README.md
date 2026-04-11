@@ -51,7 +51,7 @@ focus:   high-speed agile flight control, embedded systems
 Operational metrics and contribution traces from this GitHub node.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nanwanuser/nanwanuser/output/telemetry-cards.svg" alt="GitHub telemetry cards" />
+  <img src="https://raw.githubusercontent.com/nanwanuser/nanwanuser/output/telemetry-cards.png" alt="GitHub telemetry cards" />
 </p>
 
 <p align="center">

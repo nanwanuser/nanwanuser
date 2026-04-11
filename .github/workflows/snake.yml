@@ -45,16 +45,16 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: Install image tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y imagemagick librsvg2-bin
+
       - name: Compose telemetry cards
         run: |
-          stats_data="$(base64 -w 0 dist/github-stats.svg)"
-          langs_data="$(base64 -w 0 dist/top-langs.svg)"
-          cat > dist/telemetry-cards.svg <<EOF
-          <svg xmlns="http://www.w3.org/2000/svg" width="840" height="200" viewBox="0 0 840 200">
-            <image href="data:image/svg+xml;base64,${stats_data}" x="0" y="0" width="495" height="200" preserveAspectRatio="xMidYMid meet" />
-            <image href="data:image/svg+xml;base64,${langs_data}" x="520" y="0" width="320" height="200" preserveAspectRatio="xMidYMid meet" />
-          </svg>
-          EOF
+          rsvg-convert -w 495 -h 200 dist/github-stats.svg -o dist/github-stats.png
+          rsvg-convert -w 320 -h 200 dist/top-langs.svg -o dist/top-langs.png
+          magick dist/github-stats.png dist/top-langs.png +append dist/telemetry-cards.png
 
       - name: Push generated SVG assets to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
