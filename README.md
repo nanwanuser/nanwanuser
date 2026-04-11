@@ -40,11 +40,24 @@ focus:   high-speed agile flight control, embedded systems
 
 ### `[ CORE STACK ]`
 
-| Layer | Tooling |
-| --- | --- |
-| Flight Stack | <img src="https://img.shields.io/badge/ROS-111827?style=for-the-badge&logo=ros&logoColor=7dd3fc" alt="ROS" /> <img src="https://img.shields.io/badge/ROS2-111827?style=for-the-badge&logo=ros&logoColor=7dd3fc" alt="ROS2" /> <img src="https://img.shields.io/badge/PX4_Autopilot-111827?style=for-the-badge&logo=px4&logoColor=4ade80" alt="PX4 Autopilot" /> <img src="https://img.shields.io/badge/Gazebo-111827?style=for-the-badge&logo=gazebo&logoColor=d1d5db" alt="Gazebo" /> |
-| Languages | <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=60a5fa" alt="C" /> <img src="https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&logo=c%2B%2B&logoColor=60a5fa" alt="C++" /> <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=facc15" alt="Python" /> <img src="https://img.shields.io/badge/Bash-111827?style=for-the-badge&logo=gnu-bash&logoColor=e5e7eb" alt="Bash" /> |
-| Embedded & Dev | <img src="https://img.shields.io/badge/STM32-111827?style=for-the-badge&logo=stmicroelectronics&logoColor=e5e7eb" alt="STM32" /> <img src="https://img.shields.io/badge/Ubuntu-111827?style=for-the-badge&logo=ubuntu&logoColor=f97316" alt="Ubuntu" /> <img src="https://img.shields.io/badge/CMake-111827?style=for-the-badge&logo=cmake&logoColor=86efac" alt="CMake" /> <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=f97316" alt="Git" /> |
+<table align="center">
+  <tr>
+    <th align="center">Layer</th>
+    <th align="center">Tooling</th>
+  </tr>
+  <tr>
+    <td align="center"><strong>Flight Stack</strong></td>
+    <td align="center"><img src="https://img.shields.io/badge/ROS-111827?style=for-the-badge&logo=ros&logoColor=7dd3fc" alt="ROS" /> <img src="https://img.shields.io/badge/ROS2-111827?style=for-the-badge&logo=ros&logoColor=7dd3fc" alt="ROS2" /> <img src="https://img.shields.io/badge/PX4_Autopilot-111827?style=for-the-badge&logo=px4&logoColor=4ade80" alt="PX4 Autopilot" /> <img src="https://img.shields.io/badge/Gazebo-111827?style=for-the-badge&logo=gazebo&logoColor=d1d5db" alt="Gazebo" /></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Languages</strong></td>
+    <td align="center"><img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=60a5fa" alt="C" /> <img src="https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&logo=c%2B%2B&logoColor=60a5fa" alt="C++" /> <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=facc15" alt="Python" /> <img src="https://img.shields.io/badge/Bash-111827?style=for-the-badge&logo=gnu-bash&logoColor=e5e7eb" alt="Bash" /></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Embedded & Dev</strong></td>
+    <td align="center"><img src="https://img.shields.io/badge/STM32-111827?style=for-the-badge&logo=stmicroelectronics&logoColor=e5e7eb" alt="STM32" /> <img src="https://img.shields.io/badge/Ubuntu-111827?style=for-the-badge&logo=ubuntu&logoColor=f97316" alt="Ubuntu" /> <img src="https://img.shields.io/badge/CMake-111827?style=for-the-badge&logo=cmake&logoColor=86efac" alt="CMake" /> <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=f97316" alt="Git" /></td>
+  </tr>
+</table>
 
 ### `[ TELEMETRY ]`
 
