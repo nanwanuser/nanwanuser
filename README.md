@@ -21,7 +21,7 @@
 <table>
   <tr>
     <td width="62%" valign="top">
-      <h3><code>[ INTRODUCTION ]</code></h3>
+      <h3 align="center"><code>[ INTRODUCTION ]</code></h3>
       <p>
         My work focuses on academic research into high-speed agile flight of autonomous UAVs.
         I am currently a graduate student in Control Science and Engineering at Southwest University
@@ -29,7 +29,7 @@
       </p>
     </td>
     <td width="38%" valign="top">
-      <h3><code>[ COMMAND DECK ]</code></h3>
+      <h3 align="center"><code>[ COMMAND DECK ]</code></h3>
       <pre lang="text">role:    robotics / flight-control researcher
 stack:   ROS2 + PX4 + STM32
 focus:   high-speed agile flight control, embedded systems
