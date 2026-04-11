@@ -38,7 +38,7 @@ focus:   high-speed agile flight control, embedded systems
   </tr>
 </table>
 
-### `[ CORE STACK ]`
+<h3 align="center"><code>[ CORE STACK ]</code></h3>
 
 <table align="center">
   <tr>
@@ -59,9 +59,9 @@ focus:   high-speed agile flight control, embedded systems
   </tr>
 </table>
 
-### `[ TELEMETRY ]`
+<h3 align="center"><code>[ TELEMETRY ]</code></h3>
 
-Operational metrics and contribution traces from this GitHub node.
+<p align="center">Operational metrics and contribution traces from this GitHub node.</p>
 
 <table>
   <tr>
