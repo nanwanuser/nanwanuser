@@ -31,9 +31,9 @@
     <td width="38%" valign="top">
       <h3><code>[ COMMAND DECK ]</code></h3>
       <pre lang="text">role:    robotics / flight-control researcher
-stack:   ROS2 + PX4 + Gazebo + STM32
-focus:   control, simulation, embedded systems
-status:  system ready / takeoff authorized</pre>
+stack:   ROS2 + PX4 + STM32
+focus:   high-speed agile flight control, embedded systems
+</pre>
     </td>
   </tr>
 </table>
