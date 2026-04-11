@@ -6,9 +6,7 @@
 
 <h1>Nanwan</h1>
 
-<p><strong>Autonomous UAV Research · High-Speed Agile Flight</strong></p>
-
-<p><em>Building flight stacks, simulation loops, and embedded control pipelines for agile robotic systems.</em></p>
+<p><strong>Research on breaking through flight limits via high-speed agile flight of quadrotors.</strong></p>
 
 <p>
   <img src="https://img.shields.io/badge/Status-Online-success" alt="Status" />
@@ -23,22 +21,11 @@
 <table>
   <tr>
     <td width="62%" valign="top">
-      <h3><code>[ RESEARCH FOCUS ]</code></h3>
+      <h3><code>[ INTRODUCTION ]</code></h3>
       <p>
-        I work across the full UAV research loop: simulation, middleware integration, flight control,
-        and embedded deployment. The current emphasis is building reliable ROS2-PX4 pipelines and
-        control-oriented tooling for fast, autonomous robotic systems.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/ROS2-111827?style=for-the-badge&logo=ros&logoColor=7dd3fc" alt="ROS2" />
-        <img src="https://img.shields.io/badge/PX4-111827?style=for-the-badge&logo=px4&logoColor=4ade80" alt="PX4" />
-        <img src="https://img.shields.io/badge/Gazebo-111827?style=for-the-badge&logo=gazebo&logoColor=d1d5db" alt="Gazebo" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Control-0f172a?style=flat-square&logoColor=7dd3fc" alt="Control" />
-        <img src="https://img.shields.io/badge/Simulation-0f172a?style=flat-square&logoColor=7dd3fc" alt="Simulation" />
-        <img src="https://img.shields.io/badge/Embedded-0f172a?style=flat-square&logoColor=7dd3fc" alt="Embedded" />
-        <img src="https://img.shields.io/badge/Autonomy-0f172a?style=flat-square&logoColor=7dd3fc" alt="Autonomy" />
+        My work focuses on academic research into high-speed agile flight of autonomous UAVs.
+        I am currently a graduate student in Control Science and Engineering at Southwest University
+        of Science and Technology, Mianyang, China.
       </p>
     </td>
     <td width="38%" valign="top">
