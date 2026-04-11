@@ -50,10 +50,16 @@ focus:   high-speed agile flight control, embedded systems
 
 Operational metrics and contribution traces from this GitHub node.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nanwanuser/nanwanuser/output/github-stats.svg" alt="GitHub Stats" height="180" align="center" />
-  <img src="https://raw.githubusercontent.com/nanwanuser/nanwanuser/output/top-langs.svg" alt="Top Languages" height="180" align="center" />
-</p>
+<table align="center">
+  <tr>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/nanwanuser/nanwanuser/output/github-stats.svg" alt="GitHub Stats" height="180" />
+    </td>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/nanwanuser/nanwanuser/output/top-langs.svg" alt="Top Languages" height="180" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <picture>
