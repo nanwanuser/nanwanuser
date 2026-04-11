@@ -47,10 +47,12 @@ jobs:
 
       - name: Compose telemetry cards
         run: |
-          cat > dist/telemetry-cards.svg <<'EOF'
+          stats_data="$(base64 -w 0 dist/github-stats.svg)"
+          langs_data="$(base64 -w 0 dist/top-langs.svg)"
+          cat > dist/telemetry-cards.svg <<EOF
           <svg xmlns="http://www.w3.org/2000/svg" width="840" height="200" viewBox="0 0 840 200">
-            <image href="github-stats.svg" x="0" y="0" width="495" height="200" preserveAspectRatio="xMidYMid meet" />
-            <image href="top-langs.svg" x="520" y="0" width="320" height="200" preserveAspectRatio="xMidYMid meet" />
+            <image href="data:image/svg+xml;base64,${stats_data}" x="0" y="0" width="495" height="200" preserveAspectRatio="xMidYMid meet" />
+            <image href="data:image/svg+xml;base64,${langs_data}" x="520" y="0" width="320" height="200" preserveAspectRatio="xMidYMid meet" />
           </svg>
           EOF
 
