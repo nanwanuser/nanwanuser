@@ -1,17 +1,19 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=1200&color=7DD3FC&background=0D1117&center=true&vCenter=true&multiline=true&width=760&height=96&lines=nanwan%40flight-lab%3A~%24+.%2Flaunch_research_profile.sh;%5B+OK+%5D+ROS2+middleware+synchronized;%5B+OK+%5D+PX4+autopilot+stack+initialized;%5B+RUN+%5D+agile+control+%2B+embedded+robotics+research" alt="Research command header" />
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=1200&color=7DD3FC&background=0D1117&center=false&vCenter=false&multiline=true&width=760&height=96&lines=nanwan%40agile-flight%3A~%24+.%2Flaunch_research_profile.sh;%5B+OK+%5D+Embedded+self-check+passed;%5B+OK+%5D+Flight+stack+initialized;%5B+RUN+%5D+High-speed+agile+flight+started%21" alt="Research command header" />
+</p>
 
 <h1>Nanwan</h1>
 
-<p><strong>Autonomous UAV Research · ROS2 / PX4 / Control / Simulation</strong></p>
+<p><strong>Autonomous UAV Research · High-Speed Agile Flight</strong></p>
 
 <p><em>Building flight stacks, simulation loops, and embedded control pipelines for agile robotic systems.</em></p>
 
 <p>
-  <img src="https://img.shields.io/badge/status-online-0f172a?style=flat-square&logoColor=7dd3fc" alt="status online" />
-  <img src="https://img.shields.io/badge/domain-flight_systems-0f172a?style=flat-square&logoColor=7dd3fc" alt="flight systems" />
-  <img src="https://img.shields.io/badge/focus-autonomous_uav_research-0f172a?style=flat-square&logoColor=7dd3fc" alt="autonomous uav research" />
+  <img src="https://img.shields.io/badge/status-online-0f172a?style=flat-square&logoColor=4ade80" alt="status: online" />
+  <img src="https://img.shields.io/badge/domain-autonomous_uav_research-0f172a?style=flat-square&logoColor=60a5fa" alt="domain: autonomous uav research" />
+  <img src="https://img.shields.io/badge/focus-high--speed_agile_flight-0f172a?style=flat-square&logoColor=fb923c" alt="focus: high-speed agile flight" />
 </p>
 
 </div>
