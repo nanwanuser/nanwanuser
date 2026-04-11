@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=1200&color=7DD3FC&background=0D1117&center=false&vCenter=false&multiline=true&width=760&height=96&lines=nanwan%40agile-flight%3A~%24+.%2Flaunch_research_profile.sh;%5B+OK+%5D+Embedded+self-check+passed;%5B+OK+%5D+Flight+stack+initialized;%5B+RUN+%5D+High-speed+agile+flight+started%21" alt="Research command header" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=1200&color=7DD3FC&background=0D1117&center=false&vCenter=false&multiline=true&width=1200&height=96&lines=nanwan%40agile-flight%3A~%24+.%2Flaunch_research_profile.sh;%5B+OK+%5D+Embedded+self-check+passed;%5B+OK+%5D+Flight+stack+initialized;%5B+RUN+%5D+High-speed+agile+flight+started%21" alt="Research command header" />
 </p>
 
 <h1>Nanwan</h1>
