@@ -11,9 +11,9 @@
 <p><em>Building flight stacks, simulation loops, and embedded control pipelines for agile robotic systems.</em></p>
 
 <p>
-  <img src="https://img.shields.io/badge/status-online-0f172a?style=flat-square&logoColor=4ade80" alt="status: online" />
-  <img src="https://img.shields.io/badge/domain-autonomous_uav_research-0f172a?style=flat-square&logoColor=60a5fa" alt="domain: autonomous uav research" />
-  <img src="https://img.shields.io/badge/focus-high--speed_agile_flight-0f172a?style=flat-square&logoColor=fb923c" alt="focus: high-speed agile flight" />
+  <img src="https://img.shields.io/badge/Status-Online-success" alt="Status" />
+  <img src="https://img.shields.io/badge/Domain-Autonomous%20UAV%20Research-blue" alt="Domain" />
+  <img src="https://img.shields.io/badge/Focus-High--Speed%20Agile%20Flight-orange" alt="Focus" />
 </p>
 
 </div>
