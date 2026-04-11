@@ -54,7 +54,7 @@ jobs:
         run: |
           rsvg-convert -w 495 -h 200 dist/github-stats.svg -o dist/github-stats.png
           rsvg-convert -w 320 -h 200 dist/top-langs.svg -o dist/top-langs.png
-          magick dist/github-stats.png dist/top-langs.png +append dist/telemetry-cards.png
+          convert dist/github-stats.png dist/top-langs.png +append dist/telemetry-cards.png
 
       - name: Push generated SVG assets to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
