@@ -52,11 +52,11 @@ Operational metrics and contribution traces from this GitHub node.
 
 <table>
   <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/nanwanuser/nanwanuser/output/github-stats.svg" alt="GitHub Stats" height="180" />
+    <td width="59%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/nanwanuser/nanwanuser/output/github-stats.svg" alt="GitHub Stats" width="100%" />
     </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/nanwanuser/nanwanuser/output/top-langs.svg" alt="Top Languages" height="180" />
+    <td width="41%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/nanwanuser/nanwanuser/output/top-langs.svg" alt="Top Languages" width="100%" />
     </td>
   </tr>
 </table>
