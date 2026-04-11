@@ -45,6 +45,15 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: Compose telemetry cards
+        run: |
+          cat > dist/telemetry-cards.svg <<'EOF'
+          <svg xmlns="http://www.w3.org/2000/svg" width="840" height="200" viewBox="0 0 840 200">
+            <image href="github-stats.svg" x="0" y="0" width="495" height="200" preserveAspectRatio="xMidYMid meet" />
+            <image href="top-langs.svg" x="520" y="0" width="320" height="200" preserveAspectRatio="xMidYMid meet" />
+          </svg>
+          EOF
+
       - name: Push generated SVG assets to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
