@@ -61,9 +61,7 @@ focus:   high-speed agile flight control, embedded systems
   </tr>
 </table>
 
-<h3 align="center"><code>[ TELEMETRY ]</code></h3>
-
-<p align="center">Operational metrics and contribution traces from this GitHub node.</p>
+<h3 align="center"><code>[ GITHUB ACTIVITY GRAPH ]</code></h3>
 
 <table>
   <tr>
