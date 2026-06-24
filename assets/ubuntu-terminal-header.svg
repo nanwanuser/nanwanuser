@@ -1,0 +1,27 @@
+<svg width="1200" height="118" viewBox="0 0 1200 118" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Ubuntu terminal style profile header</title>
+  <desc id="desc">Transparent terminal-style command output using Ubuntu-inspired green and white text.</desc>
+  <style>
+    text {
+      font-family: "Ubuntu Mono", "JetBrains Mono", "Cascadia Mono", Consolas, monospace;
+      font-size: 21px;
+      font-weight: 500;
+      dominant-baseline: hanging;
+    }
+    .green { fill: #4e9a06; }
+    .white { fill: #eeeeec; }
+    .muted { fill: #d3d7cf; }
+  </style>
+  <text x="0" y="0">
+    <tspan class="green">nanwan@agile-flight</tspan><tspan class="white">:</tspan><tspan class="green">~</tspan><tspan class="white">$ ./launch_research_profile.sh</tspan>
+  </text>
+  <text x="0" y="34">
+    <tspan class="green">[ OK ]</tspan><tspan class="white"> Embedded self-check passed</tspan>
+  </text>
+  <text x="0" y="68">
+    <tspan class="green">[ OK ]</tspan><tspan class="white"> Flight stack initialized</tspan>
+  </text>
+  <text x="0" y="102">
+    <tspan class="green">[ RUN ]</tspan><tspan class="muted"> High-speed agile flight started!</tspan>
+  </text>
+</svg>
