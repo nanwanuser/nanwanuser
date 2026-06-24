@@ -1,6 +1,6 @@
 <svg width="1200" height="118" viewBox="0 0 1200 118" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Ubuntu terminal style profile header</title>
-  <desc id="desc">Transparent terminal-style command output using Ubuntu-inspired green and white text.</desc>
+  <title id="title">Animated Ubuntu terminal style profile header</title>
+  <desc id="desc">Transparent terminal-style command output with slow typing animation using Ubuntu-inspired green and white text.</desc>
   <style>
     text {
       font-family: "Ubuntu Mono", "JetBrains Mono", "Cascadia Mono", Consolas, monospace;
@@ -11,17 +11,53 @@
     .green { fill: #4e9a06; }
     .white { fill: #eeeeec; }
     .muted { fill: #d3d7cf; }
+    .cursor {
+      fill: #eeeeec;
+    }
   </style>
-  <text x="0" y="0">
-    <tspan class="green">nanwan@agile-flight</tspan><tspan class="white">:</tspan><tspan class="green">~</tspan><tspan class="white">$ ./launch_research_profile.sh</tspan>
-  </text>
-  <text x="0" y="34">
-    <tspan class="green">[ OK ]</tspan><tspan class="white"> Embedded self-check passed</tspan>
-  </text>
-  <text x="0" y="68">
-    <tspan class="green">[ OK ]</tspan><tspan class="white"> Flight stack initialized</tspan>
-  </text>
-  <text x="0" y="102">
-    <tspan class="green">[ RUN ]</tspan><tspan class="muted"> High-speed agile flight started!</tspan>
-  </text>
+  <defs>
+    <clipPath id="line-1-clip">
+      <rect x="0" y="0" width="0" height="26">
+        <animate attributeName="width" from="0" to="690" dur="4.4s" begin="0s" fill="freeze" calcMode="discrete" values="0;13;26;39;52;65;78;91;104;117;130;143;156;169;182;195;208;221;234;247;260;273;286;299;312;325;338;351;364;377;390;403;416;429;442;455;468;481;494;507;520;533;546;559;572;585;598;611;624;637;650;663;676;690" keyTimes="0;0.0189;0.0377;0.0566;0.0755;0.0943;0.1132;0.1321;0.1509;0.1698;0.1887;0.2075;0.2264;0.2453;0.2642;0.283;0.3019;0.3208;0.3396;0.3585;0.3774;0.3962;0.4151;0.434;0.4528;0.4717;0.4906;0.5094;0.5283;0.5472;0.566;0.5849;0.6038;0.6226;0.6415;0.6604;0.6792;0.6981;0.717;0.7358;0.7547;0.7736;0.7925;0.8113;0.8302;0.8491;0.8679;0.8868;0.9057;0.9245;0.9434;0.9623;0.9811;1" />
+      </rect>
+    </clipPath>
+    <clipPath id="line-2-clip">
+      <rect x="0" y="34" width="0" height="26">
+        <animate attributeName="width" from="0" to="405" dur="2.8s" begin="4.8s" fill="freeze" calcMode="discrete" values="0;13;26;39;52;65;78;91;104;117;130;143;156;169;182;195;208;221;234;247;260;273;286;299;312;325;338;351;364;377;390;405" keyTimes="0;0.0323;0.0645;0.0968;0.129;0.1613;0.1935;0.2258;0.2581;0.2903;0.3226;0.3548;0.3871;0.4194;0.4516;0.4839;0.5161;0.5484;0.5806;0.6129;0.6452;0.6774;0.7097;0.7419;0.7742;0.8065;0.8387;0.871;0.9032;0.9355;0.9677;1" />
+      </rect>
+    </clipPath>
+    <clipPath id="line-3-clip">
+      <rect x="0" y="68" width="0" height="26">
+        <animate attributeName="width" from="0" to="382" dur="2.7s" begin="8s" fill="freeze" calcMode="discrete" values="0;13;26;39;52;65;78;91;104;117;130;143;156;169;182;195;208;221;234;247;260;273;286;299;312;325;338;351;364;382" keyTimes="0;0.0345;0.069;0.1034;0.1379;0.1724;0.2069;0.2414;0.2759;0.3103;0.3448;0.3793;0.4138;0.4483;0.4828;0.5172;0.5517;0.5862;0.6207;0.6552;0.6897;0.7241;0.7586;0.7931;0.8276;0.8621;0.8966;0.931;0.9655;1" />
+      </rect>
+    </clipPath>
+    <clipPath id="line-4-clip">
+      <rect x="0" y="102" width="0" height="26">
+        <animate attributeName="width" from="0" to="500" dur="3.4s" begin="11s" fill="freeze" calcMode="discrete" values="0;13;26;39;52;65;78;91;104;117;130;143;156;169;182;195;208;221;234;247;260;273;286;299;312;325;338;351;364;377;390;403;416;429;442;455;468;481;500" keyTimes="0;0.0263;0.0526;0.0789;0.1053;0.1316;0.1579;0.1842;0.2105;0.2368;0.2632;0.2895;0.3158;0.3421;0.3684;0.3947;0.4211;0.4474;0.4737;0.5;0.5263;0.5526;0.5789;0.6053;0.6316;0.6579;0.6842;0.7105;0.7368;0.7632;0.7895;0.8158;0.8421;0.8684;0.8947;0.9211;0.9474;0.9737;1" />
+      </rect>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#line-1-clip)">
+    <text x="0" y="0">
+      <tspan class="green">nanwan@agile-flight</tspan><tspan class="white">:</tspan><tspan class="green">~</tspan><tspan class="white">$ ./launch_research_profile.sh</tspan>
+    </text>
+  </g>
+  <g clip-path="url(#line-2-clip)">
+    <text x="0" y="34">
+      <tspan class="green">[ OK ]</tspan><tspan class="white"> Embedded self-check passed</tspan>
+    </text>
+  </g>
+  <g clip-path="url(#line-3-clip)">
+    <text x="0" y="68">
+      <tspan class="green">[ OK ]</tspan><tspan class="white"> Flight stack initialized</tspan>
+    </text>
+  </g>
+  <g clip-path="url(#line-4-clip)">
+    <text x="0" y="102">
+      <tspan class="green">[ RUN ]</tspan><tspan class="muted"> High-speed agile flight started!</tspan>
+    </text>
+  </g>
+  <rect class="cursor" x="504" y="102" width="10" height="22" rx="1" opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.5;1" dur="1s" begin="14.4s" repeatCount="indefinite" />
+  </rect>
 </svg>

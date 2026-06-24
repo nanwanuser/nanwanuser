@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Status-Online-success" alt="Status" />
   <img src="https://img.shields.io/badge/Domain-Autonomous%20UAV%20Research-blue" alt="Domain" />
   <img src="https://img.shields.io/badge/Focus-High--Speed%20Agile%20Flight-orange" alt="Focus" />
+  <img src="https://img.shields.io/badge/PX4-Contributor-111827?logo=px4&logoColor=4ade80" alt="PX4 Contributor" />
   <a href="mailto:nanwan2004@126.com"><img src="https://img.shields.io/badge/Email-nanwan2004%40126.com-4e9a06?logo=maildotru&logoColor=white" alt="Email nanwan2004@126.com" /></a>
 </p>
 
