@@ -8,11 +8,17 @@
       font-weight: 500;
       dominant-baseline: hanging;
     }
-    .green { fill: #4e9a06; }
-    .white { fill: #eeeeec; }
-    .muted { fill: #d3d7cf; }
+    .green { fill: #2c8a00; }
+    .white { fill: #1f2937; }
+    .muted { fill: #4b5563; }
     .cursor {
-      fill: #eeeeec;
+      fill: #1f2937;
+    }
+    @media (prefers-color-scheme: dark) {
+      .green { fill: #4e9a06; }
+      .white { fill: #eeeeec; }
+      .muted { fill: #d3d7cf; }
+      .cursor { fill: #eeeeec; }
     }
   </style>
   <defs>
