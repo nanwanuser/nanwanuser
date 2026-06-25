@@ -2,7 +2,7 @@
 
 <h1>Nanwan</h1>
 
-<p><strong>Research on breaking through flight limits via high-speed agile flight of quadrotors.</strong></p>
+<p><strong>Research on pushing the limits of high-speed agile quadrotor flight..</strong></p>
 
 <p>
   <img src="https://img.shields.io/badge/Status-Online-success" alt="Status" />
