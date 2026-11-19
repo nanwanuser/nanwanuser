@@ -42,18 +42,6 @@
 | **Development Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)&nbsp; ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=GitHubActions&logoColor=white)&nbsp; ![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat&logo=CMake&logoColor=white)&nbsp; ![Makefile](https://img.shields.io/badge/-Makefile-444444?style=flat&logo=GNU&logoColor=white)&nbsp; ![GCC / G++](https://img.shields.io/badge/-GCC%20%2F%20G%2B%2B-A42E2B?style=flat&logo=GNU&logoColor=white)&nbsp; ![Conda](https://img.shields.io/badge/-Conda-44A833?style=flat&logo=Anaconda&logoColor=white)&nbsp; ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)&nbsp; |
 | **Research Focus** | ![Quadrotor High-Speed Agile Flight](https://img.shields.io/badge/-Quadrotor%20High--Speed%20Agile%20Flight-EA580C?style=flat-square&logoColor=white)&nbsp; ![UAV Flight Control](https://img.shields.io/badge/-UAV%20Flight%20Control-0284C7?style=flat&logoColor=white)&nbsp; ![Embedded Flight Control](https://img.shields.io/badge/-Embedded%20Flight%20Control-16A34A?style=flat&logoColor=white)&nbsp; ![Aerial Robotics](https://img.shields.io/badge/-Aerial%20Robotics-444444?style=flat&logoColor=white)&nbsp; |
 
-<h3 align="center"><code>[ GITHUB ACTIVITY GRAPH ]</code></h3>
-
-<table>
-  <tr>
-    <td width="59%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/nanwanuser/nanwanuser/output/github-stats.svg" alt="GitHub Stats" width="100%" />
-    </td>
-    <td width="41%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/nanwanuser/nanwanuser/output/top-langs.svg" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-</table>
 
 <p align="center">
   <picture>
